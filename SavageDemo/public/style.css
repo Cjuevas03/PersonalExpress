@@ -1,0 +1,29 @@
+body{
+ background-image: url(image/picture.jpg);
+ background-repeat: round;
+
+}
+h3{
+  margin-top: 40px;
+  color: red;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: red;
+}
+h2{
+  text-align: center;
+  color: red;
+}
+.board, form{
+  text-align: center;
+  color: red;
+}
+.board{
+  text-decoration: none;
+  list-style: none;
+  color: red;
+}
+
+
